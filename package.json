@@ -24,5 +24,8 @@
     "react-dom": "^19.1.1",
     "react-hook-form": "^7.62.0",
     "tailwindcss": "^4.1.13"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.13"
   }
 }
